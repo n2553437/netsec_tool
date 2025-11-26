@@ -1,12 +1,6 @@
 
- _   _      _   ____            _____           _     
-| \ | | ___| |_/ ___|  ___  ___|_   _|__   ___ | |
-|  \| |/ _ \ __\___ \ / _ \/ __| | |/ _ \ / _ \| | 
-| |\  |  __/ |_ ___) |  __/ (__  | | (_) | (_) | |   
-|_| \_|\___|\__|____/ \___|\___| |_|\___/ \___/|_|
-
 ╔═══════════════════════════════════════════════════════════════════════════╗
-║          Comprehensive Network Security Suite v2.0                        ║
+║          Comprehensive Network Security Scanner v2.0                      ║
 ║                  Coded By:n2553437                                        ║
 ║                 email:n2553437@gmail.com                                  ║
 ║  Features: Packet Analysis • Vulnerability Scanning • OWASP Testing       ║
